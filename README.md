@@ -112,4 +112,4 @@ A: See `train_probe.py`. You need to collect hidden states from the target layer
 
 ## License
 
-Apache 2.0
+MIT
